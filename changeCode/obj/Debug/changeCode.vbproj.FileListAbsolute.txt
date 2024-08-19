@@ -1,0 +1,91 @@
+D:\DEV\changeCode\changeCode\bin\Debug\changeCode.exe
+D:\DEV\changeCode\changeCode\bin\Debug\changeCode.pdb
+D:\DEV\changeCode\changeCode\bin\Debug\changeCode.xml
+D:\DEV\changeCode\changeCode\obj\Debug\ResolveAssemblyReference.cache
+D:\DEV\changeCode\changeCode\obj\Debug\changeCode.frmChange.resources
+D:\DEV\changeCode\changeCode\obj\Debug\changeCode.Resources.resources
+D:\DEV\changeCode\changeCode\obj\Debug\changeCode.vbproj.GenerateResource.Cache
+D:\DEV\changeCode\changeCode\obj\Debug\changeCode.exe
+D:\DEV\changeCode\changeCode\obj\Debug\changeCode.xml
+D:\DEV\changeCode\changeCode\obj\Debug\changeCode.pdb
+D:\DEV\changeCode\changeCode\obj\Debug\changeCode.frmFindStk.resources
+D:\DEV\50.0 changeCode\changeCode\obj\Debug\changeCode.exe
+D:\DEV\50.0 changeCode\changeCode\obj\Debug\changeCode.xml
+D:\DEV\50.0 changeCode\changeCode\obj\Debug\changeCode.pdb
+D:\DEV\50.0 changeCode\changeCode\bin\Debug\changeCode.exe
+D:\DEV\50.0 changeCode\changeCode\bin\Debug\changeCode.pdb
+D:\DEV\50.0 changeCode\changeCode\bin\Debug\changeCode.xml
+D:\DEV\50.0 changeCode\changeCode\obj\Debug\ResolveAssemblyReference.cache
+D:\DEV\50.0 changeCode\changeCode\obj\Debug\changeCode.frmChange.resources
+D:\DEV\50.0 changeCode\changeCode\obj\Debug\changeCode.frmFindStk.resources
+D:\DEV\50.0 changeCode\changeCode\obj\Debug\changeCode.Resources.resources
+D:\DEV\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.GenerateResource.Cache
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\obj\Debug\changeCode.exe
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\obj\Debug\changeCode.xml
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\obj\Debug\changeCode.pdb
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\bin\Debug\changeCode.exe
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\bin\Debug\changeCode.pdb
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\bin\Debug\changeCode.xml
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\obj\Debug\changeCode.frmChange.resources
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\obj\Debug\changeCode.frmFindStk.resources
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\obj\Debug\changeCode.Resources.resources
+C:\Users\กฤตพน\Google ไดรฟ์\DEV2015\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.GenerateResource.Cache
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.exe
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.xml
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.pdb
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.exe
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.pdb
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.xml
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.frmChange.resources
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.frmFindStk.resources
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.Resources.resources
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.GenerateResource.Cache
+C:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.vbprojResolveAssemblyReference.cache
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.exe
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.xml
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.pdb
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.exe
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.pdb
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.xml
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.vbprojResolveAssemblyReference.cache
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.frmChange.resources
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.frmFindStk.resources
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.Resources.resources
+E:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.GenerateResource.Cache
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.exe
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.pdb
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\bin\Debug\changeCode.xml
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.vbprojAssemblyReference.cache
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.frmChange.resources
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.frmFindStk.resources
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.Resources.resources
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.GenerateResource.cache
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.exe
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.xml
+D:\OneDrive\Work-Dev\DEV2016\50.0 changeCode\changeCode\obj\Debug\changeCode.pdb
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\bin\Debug\changeCode.exe
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\bin\Debug\changeCode.pdb
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\bin\Debug\changeCode.xml
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.AssemblyReference.cache
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.frmChange.resources
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.frmFindStk.resources
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.Resources.resources
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.GenerateResource.cache
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.CoreCompileInputs.cache
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.exe
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.xml
+D:\0_WorkDev\0_DEV2019\0 Util\50.0 changeCode\changeCode\obj\Debug\changeCode.pdb
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\bin\Debug\changeCode.exe.config
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\bin\Debug\changeCode.exe
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\bin\Debug\changeCode.pdb
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\bin\Debug\changeCode.xml
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.AssemblyReference.cache
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.frmChange.resources
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.frmFindStk.resources
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.Resources.resources
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.GenerateResource.cache
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.vbproj.CoreCompileInputs.cache
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.exe
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.xml
+X:\workFirst\โปรแกรมเก่า\50.0 changeCode\changeCode\obj\Debug\changeCode.pdb

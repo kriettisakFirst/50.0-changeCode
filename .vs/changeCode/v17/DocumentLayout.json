@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changecode\\dbtools.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|solutionrelative:changecode\\dbtools.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changecode\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|solutionrelative:changecode\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changecode\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|solutionrelative:changecode\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|x:\\workfirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changecode\\changecode\\frmgencode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|solutionrelative:changecode\\frmgencode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changecode\\frmgencode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|solutionrelative:changecode\\frmgencode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changecode\\dbconnstring.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5C3B3BA-207F-4D79-B131-0F267DA7FE49}|changeCode\\changeCode.vbproj|solutionrelative:changecode\\dbconnstring.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbTools.vb",
+              "DocumentMoniker": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\dbTools.vb",
+              "RelativeDocumentMoniker": "changeCode\\dbTools.vb",
+              "ToolTip": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\dbTools.vb",
+              "RelativeToolTip": "changeCode\\dbTools.vb",
+              "ViewState": "AQIAAOwBAAAAAAAAAAAEwPcBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T09:32:38.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGenCode.vb",
+              "DocumentMoniker": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\frmGenCode.vb",
+              "RelativeDocumentMoniker": "changeCode\\frmGenCode.vb",
+              "ToolTip": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\frmGenCode.vb",
+              "RelativeToolTip": "changeCode\\frmGenCode.vb",
+              "ViewState": "AQIAACsOAAAAAAAAAAASwDwOAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T09:07:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGenCode.vb [Design]",
+              "DocumentMoniker": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\frmGenCode.vb",
+              "RelativeDocumentMoniker": "changeCode\\frmGenCode.vb",
+              "ToolTip": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\frmGenCode.vb [Design]",
+              "RelativeToolTip": "changeCode\\frmGenCode.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T09:02:59.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConnString.vb",
+              "DocumentMoniker": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\DBConnString.vb",
+              "RelativeDocumentMoniker": "changeCode\\DBConnString.vb",
+              "ToolTip": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\DBConnString.vb",
+              "RelativeToolTip": "changeCode\\DBConnString.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T01:48:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\Form1.vb",
+              "RelativeDocumentMoniker": "changeCode\\Form1.vb",
+              "ToolTip": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\Form1.vb",
+              "RelativeToolTip": "changeCode\\Form1.vb",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAjwAwBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-10T06:56:09.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\Form1.vb",
+              "RelativeDocumentMoniker": "changeCode\\Form1.vb",
+              "ToolTip": "X:\\workFirst\\\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E01\u0E48\u0E32\\50.0 changeCode\\changeCode\\Form1.vb [Design]",
+              "RelativeToolTip": "changeCode\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-10T06:56:02.809Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
