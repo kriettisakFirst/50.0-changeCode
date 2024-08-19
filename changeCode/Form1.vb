@@ -266,10 +266,10 @@ Public Class frmChange
 
         '   เช็ค Stock รหัสเก่า+ใหม่ เก็บในตัวแปร
 
-        Stock_PA = dbTools.getStock(strCodeOld, "110098", "01")
+        Stock_PA = dbTools.getStock(strCodeOld, "100001", "01")
         'Stock_VK = dbTools.getStock(strCodeOld, "110098", "12")
 
-        OLD_stock_PA = dbTools.getStock(strCodeNew, "110098", "01")
+        OLD_stock_PA = dbTools.getStock(strCodeNew, "100001", "01")
         'OLD_stock_VK = dbTools.getStock(strCodeNew, "110098", "12")
 
         Stock_PA = Stock_PA + OLD_stock_PA
@@ -589,8 +589,8 @@ Public Class frmChange
             lbStkName2.Text = subDS.Tables("Master2").Rows(0).Item("Stk_name_1")
             lbStkCodeNew.Text = subDS.Tables("Master2").Rows(0).Item("Stk_Code")
 
-            lbStkPA02.Text = dbTools.getStock(lbStkCodeNew.Text, "110098", "01")
-            lbStkVK02.Text = dbTools.getStock(lbStkCodeNew.Text, "110098", "12")
+            lbStkPA02.Text = dbTools.getStock(lbStkCodeNew.Text, "100001", "01")
+            'lbStkVK02.Text = dbTools.getStock(lbStkCodeNew.Text, "110098", "12")
         Catch ex As Exception
 
         End Try
@@ -883,8 +883,8 @@ Public Class frmChange
             txtStkCodeOld.Text = lsvShow.Items(stkSelect.Index).SubItems(1).Text
             lbStkName.Text = lsvShow.Items(stkSelect.Index).SubItems(2).Text
             lsvShow.Items.Remove(stkSelect)
-            lbStkPA01.Text = dbTools.getStock(txtStkCodeOld.Text, "110098", "01")
-            lbStkVK01.Text = dbTools.getStock(txtStkCodeOld.Text, "110098", "12")
+            lbStkPA01.Text = dbTools.getStock(txtStkCodeOld.Text, "100001", "01")
+            'lbStkVK01.Text = dbTools.getStock(txtStkCodeOld.Text, "110098", "12")
 
 
         Next
@@ -896,8 +896,8 @@ Public Class frmChange
         frmFindStk.ShowDialog()
         lbStkCodeNew.Text = SelectCode
         lbStkName2.Text = dbTools.getStkName(SelectCode)
-        lbStkPA02.Text = dbTools.getStock(lbStkCodeNew.Text, "110098", "01")
-        lbStkVK02.Text = dbTools.getStock(lbStkCodeNew.Text, "110098", "12")
+        lbStkPA02.Text = dbTools.getStock(lbStkCodeNew.Text, "100001", "01")
+        'lbStkVK02.Text = dbTools.getStock(lbStkCodeNew.Text, "110098", "12")
 
     End Sub
 
@@ -906,8 +906,8 @@ Public Class frmChange
         frmFindStk2.ShowDialog()
         txtStkCodeOld.Text = SelectCode
         lbStkName.Text = dbTools.getStkName(SelectCode)
-        lbStkPA01.Text = dbTools.getStock(txtStkCodeOld.Text, "110098", "01")
-        lbStkVK01.Text = dbTools.getStock(txtStkCodeOld.Text, "110098", "12")
+        lbStkPA01.Text = dbTools.getStock(txtStkCodeOld.Text, "100001", "01")
+        'lbStkVK01.Text = dbTools.getStock(txtStkCodeOld.Text, "110098", "12")
     End Sub
 
     Private Sub btnGenCode_Click(sender As Object, e As EventArgs) Handles btnGenCode.Click

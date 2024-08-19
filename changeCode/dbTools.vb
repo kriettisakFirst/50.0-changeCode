@@ -509,7 +509,7 @@ Module dbTools
                 txtSQL = txtSQL & "From StkDetl "
 
                 txtSQL = txtSQL & "WHERE Dtl_Code='" & stkId & "' "
-                txtSQL = txtSQL & "And Dtl_Store='110098' "
+                txtSQL = txtSQL & "And Dtl_Store='100001' "
                 txtSQL = txtSQL & "And Dtl_Wh='" & whCode & "' "
 
                 'txtSQL = txtSQL & "group by Dtl_Wh,Dtl_Code "
