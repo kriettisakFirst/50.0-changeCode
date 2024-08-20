@@ -266,13 +266,13 @@ Public Class frmChange
 
         '   เช็ค Stock รหัสเก่า+ใหม่ เก็บในตัวแปร
 
-        Stock_PA = dbTools.getStock(strCodeOld, "100001", "01")
+        'Stock_PA = dbTools.getStock(strCodeOld, "100001", "01")
         'Stock_VK = dbTools.getStock(strCodeOld, "110098", "12")
 
-        OLD_stock_PA = dbTools.getStock(strCodeNew, "100001", "01")
+        'OLD_stock_PA = dbTools.getStock(strCodeNew, "100001", "01")
         'OLD_stock_VK = dbTools.getStock(strCodeNew, "110098", "12")
 
-        Stock_PA = Stock_PA + OLD_stock_PA
+        'Stock_PA = Stock_PA + OLD_stock_PA
         'Stock_VK = Stock_VK + OLD_stock_VK
         '=============================================================
 
@@ -286,11 +286,26 @@ Public Class frmChange
 
         ' 3. เปลี่ยน รหัสเก่า เป็น  รหัสใหม่ ใน StkDetl
 
-        txtSQL = "Update StkDetl "
-        txtSQL = txtSQL & "Set dtl_code='" & strCodeNew & "', Dtl_Bal_Q1='" & Stock_PA & "' "
-        txtSQL = txtSQL & "Where dtl_code='" & strCodeOld & "'  And dtl_wh='01' "
+        '   เช็ค Stock รหัสเก่า+ใหม่ เก็บในตัวแปร
+        Dim Wh As String() = getWarehouse(strCodeOld)
+        ' Optionally, you can now use warehouseArray in your code, for example:
+        For Each warehouse As String In Wh
+            Stock_PA = dbTools.getStock(strCodeOld, "100001", warehouse)
 
-        dbTools.dbSaveSQLsrv(txtSQL, dbTools.getStkName(strCodeOld & " ในการเปลี่ยนประวัติ"))
+            txtSQL = "Update StkDetl "
+            txtSQL = txtSQL & "Set dtl_code='" & strCodeNew & "', Dtl_Bal_Q1='" & Stock_PA & "' "
+            txtSQL = txtSQL & "Where dtl_code='" & strCodeOld & "' And dtl_wh='" & warehouse & "' "
+
+
+            dbTools.dbSaveSQLsrv(txtSQL, dbTools.getStkName(strCodeOld & " ในการเปลี่ยนประวัติ"))
+        Next
+
+        'txtSQL = "Update StkDetl "
+        'txtSQL = txtSQL & "Set dtl_code='" & strCodeNew & "', Dtl_Bal_Q1='" & Stock_PA & "' "
+        'txtSQL = txtSQL & "Where dtl_code='" & strCodeOld & "' "
+        ''And dtl_wh='01' "
+
+        'dbTools.dbSaveSQLsrv(txtSQL, dbTools.getStkName(strCodeOld & " ในการเปลี่ยนประวัติ"))
 
         'txtSQL = "Update StkDetl "
         'txtSQL = txtSQL & "Set dtl_code='" & strCodeNew & "', Dtl_Bal_Q1='" & Stock_VK & "' "
@@ -655,7 +670,7 @@ Public Class frmChange
         '==================================================================================================================
         Try
 
-            txtSQL = "Select  Color_Code,(color_code1 + '-' + Color_StkName) as Color_StkName "
+            txtSQL = "Select distinct Color_Code,(color_code1 + '-' + Color_StkName) as Color_StkName "
             txtSQL = txtSQL & "From ColorMast "
 
             If IsDBNull(cboType.SelectedValue) Then

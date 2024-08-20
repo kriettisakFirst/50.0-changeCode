@@ -535,6 +535,40 @@ Module dbTools
 
     End Function
 
+    Function getWarehouse(ByVal stkId As String) As String()
+        Dim ans As New List(Of String)
+        Dim subDA As SqlClient.SqlDataAdapter
+        Dim subDS As New DataSet
+        Try
+
+            If String.IsNullOrWhiteSpace(stkId) Then
+                Return ans.ToArray() ' Return an empty list if stkId is not provided
+            Else
+                txtSQL = "Select Dtl_Wh "
+                txtSQL = txtSQL & "From StkDetl "
+
+                txtSQL = txtSQL & "WHERE Dtl_Code='" & stkId & "' "
+
+                'txtSQL = txtSQL & "group by Dtl_Wh,Dtl_Code "
+
+                subDA = New SqlClient.SqlDataAdapter(txtSQL, Conn)
+                subDA.Fill(subDS, "StkWh")
+
+                For Each row As DataRow In subDS.Tables("StkWh").Rows
+                    ans.Add(row("Dtl_Wh").ToString()) ' Collect the values from the column dtl_wh
+                Next
+
+                subDS = Nothing
+                subDA = Nothing
+
+                Return ans.ToArray()
+            End If
+        Catch ex As Exception
+
+        End Try
+
+    End Function
+
     Function getDocNumber(ByVal DocNo As String, ByVal DocType As String) As Boolean
         Dim ans As Boolean
 
