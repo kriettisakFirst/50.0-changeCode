@@ -10,7 +10,8 @@ Public NotInheritable Class DBConnString
     'Public Shared strConn2 As String = "Data Source=192.168.1.13\SQLEXPRESS;Initial Catalog=DB2012;User ID=sa;Password=sys0500"
     'Public Shared strConn2 As String = "Data Source=7.191.194.14\SQLEXPRESS;Initial Catalog=DB2012;User ID=sa;Password=sys0500"
     'Public Shared strConn2 As String = "Data Source=192.168.1.3\SQLEXPRESS;Initial Catalog=newZone;User ID=sa;Password=$y$05000"
-    Public Shared strConn2 As String = "Data Source=192.168.3.22\SQLexpress;Initial Catalog=dbnewZone;User ID=sa;Password=$y$05000"
+    'Public Shared strConn2 As String = "Data Source=192.168.3.22\SQLexpress;Initial Catalog=dbnewZone;User ID=sa;Password=$y$05000"
+    Public Shared strConn2 As String = "Data Source=192.168.3.22\SQLexpress;Initial Catalog=db2022;User ID=sa;Password=$y$05000"
     '===================================================================================
     Public Shared UserName As String = ""
 

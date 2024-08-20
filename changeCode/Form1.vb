@@ -254,8 +254,9 @@ Public Class frmChange
     Sub changeCode(ByVal strCodeOld As String, ByVal strCodeNew As String)
         Dim OLD_stock_VK As Double = 0
         Dim OLD_stock_PA As Double = 0
-        Dim Stock_VK As Double = 0
-        Dim Stock_PA As Double = 0
+        'Dim Stock_VK As Double = 0
+        'Dim Stock_PA As Double = 0
+        Dim Stock_Cosmo As Double = 0
 
         ' 1.  ลบข้อมูลประวัติสินค้าเก่าใน BaseMast
         txtSQL = "Delete  "
@@ -290,10 +291,10 @@ Public Class frmChange
         Dim Wh As String() = getWarehouse(strCodeOld)
         ' Optionally, you can now use warehouseArray in your code, for example:
         For Each warehouse As String In Wh
-            Stock_PA = dbTools.getStock(strCodeOld, "100001", warehouse)
+            Stock_Cosmo = dbTools.getStock(strCodeOld, "100001", warehouse)
 
             txtSQL = "Update StkDetl "
-            txtSQL = txtSQL & "Set dtl_code='" & strCodeNew & "', Dtl_Bal_Q1='" & Stock_PA & "' "
+            txtSQL = txtSQL & "Set dtl_code='" & strCodeNew & "', Dtl_Bal_Q1='" & Stock_Cosmo & "' "
             txtSQL = txtSQL & "Where dtl_code='" & strCodeOld & "' And dtl_wh='" & warehouse & "' "
 
 
