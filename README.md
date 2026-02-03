@@ -75,5 +75,13 @@ Where:
 
 ---
 
+## 👤 My Role
+- Implemented required logic based on internal specifications
+- Maintained and updated existing code
+- Ensured new product codes do not duplicate existing ones
+- Learned Visual Basic and Visual Studio in a real production environment
+
+---
+
 ## 📄 License
 This project is for **internal company use** and learning purposes.
