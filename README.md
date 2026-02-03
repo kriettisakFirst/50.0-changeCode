@@ -36,6 +36,8 @@ Where:
 **Generated Product Code**
 101120240015
 
+This example demonstrates how the program combines internal parameters into a standardized product code while ensuring no duplication with existing codes.
+
 ---
 
 ## ⚙️ Features
