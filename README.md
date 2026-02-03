@@ -25,6 +25,19 @@ Where:
 
 ---
 
+## 🧪 Example Input / Output
+
+**Input Parameters**
+- Color Code: `101`
+- Width: `120`
+- Length: `240`
+- Thickness: `015`
+
+**Generated Product Code**
+101120240015
+
+---
+
 ## ⚙️ Features
 - Generate new product codes based on internal parameters
 - Check existing product codes to prevent duplication
